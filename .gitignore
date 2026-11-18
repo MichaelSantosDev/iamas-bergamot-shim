@@ -1,0 +1,5 @@
+# Build outputs and fetched sources (see README.md): the repo carries
+# only the shim, CMake, scripts and patches.
+/.src/
+/.build/
+/prebuilt/
